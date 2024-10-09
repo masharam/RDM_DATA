@@ -9,7 +9,7 @@ Inside of each of these folders, the sub-folders are for different systems (LJ, 
 
 Further inside, these folders have specific folder structure which is described in a $path_README.txt file inside those folders.
 
-an example for the folder structure:
+an example for the folder structure (Switch to the 'Code' section for better readability):
 
 /DATA/
     /analysis_codes/
